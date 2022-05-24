@@ -1,5 +1,47 @@
 Tạo một portfolio sử dụng html + css  
 
+Grid-template-columns trong css:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns  
+
+Column gap trong css:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap
+
+Display theo kiểu grid:  
+https://www.w3schools.com/css/css_grid.asp
+
+Chú ý: nếu không hiểu thuật ngữ htm, css, js thì tra mdn docs(chứa toàn bộ):  
+  Trong mỗi bài có link tới những bài khác để người đọc hiểu rõ về nội dung tra cứu
+
+Justify content trong css: 
+https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
+
+Float trong css:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/float
+
+Media rule:  
+https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
+
+Backgroud-position trong css:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
+
+Background-size trong css:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+
+Overflow trong css:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+
+Giải thích inline-block:  
+https://www.w3schools.com/Css/css_inline-block.asp
+
+border-bottom:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom
+
+Giải thích dấu >:  
+https://stackoverflow.com/questions/4459821/css-selector-what-is-it
+
+Bài làm được tham khảo từ:  
+https://christinatruong.github.io/css-essential-training/css-portfolio/
+
 Giải thích dấu ~:  
 https://www.w3docs.com/snippets/css/what-does-the-css-tilde-selector-mean.html
 
