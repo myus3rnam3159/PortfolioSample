@@ -1,5 +1,11 @@
 Tạo một portfolio sử dụng html + css  
 
+Mdn docs:  
+https://developer.mozilla.org/
+
+Margin-right trong css:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right
+
 Grid-template-columns trong css:  
 https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns  
 
@@ -51,8 +57,8 @@ https://stackoverflow.com/questions/1139763/what-does-the-plus-sign-css-selector
 Hiểu cách viết tắt của css property:  
  property: a b c d  
  a: trên  
- b: dưới  
- c: phải
+ b: phải
+ c: dưới
  d: trái
  Nếu chỉ có a, b:  
   a: Trên dưới  
@@ -79,8 +85,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/::before
 *:after (CSS2):  
 https://developer.mozilla.org/en-US/docs/Web/CSS/::after
 
-Bảng màu đã được chọn: 
-https://coolors.co/070707-99621e-d1d0a3-517664-a599b5
+
 
 Tạo bảng màu phù hợp:  
 https://coolors.co/

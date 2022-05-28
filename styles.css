@@ -75,13 +75,38 @@ h3 {
 
 /*Hồ sơ*/
 header {
-    background: #d1d0a3;
-    color: #070707
+    color: #070707;
+    display: grid;
+    grid-template-columns: 0.8fr 2fr;
+}
+
+header .left-panel{
+    position: relative;
+    background: #388659;
+}
+
+header .content-wrap{
+    background: #52AA5E;
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.imgClot img{
+    position: absolute;
+    top: 10%;
+    left: 17%;
+    width: 60%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 50%;
+    border-color: #070707;
+    border:  0.5rem solid #343434;
 }
 
 /*Project*/
 .projects {
-    background: #3185fc;
+    background: #52AA8A;
 }
 
 .projects a {
@@ -111,12 +136,12 @@ header {
 
 /*Learning Experience*/
 .learn-experience {
-    background: #a599b5;
+    background: #3AAED8;
 }
 
 /*Certificates*/
 .education {
-    background-image: url(/images/joanna-kosinska-unsplash.jpg);
+    background-image: url(./images/joanna-kosinska-unsplash.jpg);
     background-size: cover;
     background-position: top right;
     padding-bottom: 100px;
