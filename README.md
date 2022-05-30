@@ -1,5 +1,8 @@
 Tạo một portfolio sử dụng html + css  
 
+Github tham khảo:  
+https://github.com/christinatruong/css-essential-training
+
 Mdn docs:  
 https://developer.mozilla.org/
 
