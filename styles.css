@@ -64,12 +64,12 @@ h3 {
     margin-top: 0;
 }
 
-.divider>section {
+.divider>div {
     border-bottom: 1px dashed #343434;
     padding: 25px 0;
 }
 
-.divider>section :last-of-type {
+.divider>div :last-of-type {
     border-bottom: none;
 }
 
